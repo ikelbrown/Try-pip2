@@ -1,3 +1,4 @@
 1. pip2 install Django- Django is a Python framework that requires python to run.
 2. pip2 list- List installed packages. packages are listed in a case sensitive manner.
-3.
+3.pip freeze- outputs installed packages requirements format in case-insensitive sorted order.
+
